@@ -31,4 +31,4 @@ My solutions in CodeWars - Java.
 ## 6 kyu
 + [Duplicate Encoder](/src/main/java/fundamentials/DupliateEncoder.java)
 + [Find the unique number](/src/main/java/fundamentials/FindTheUniqueNumber.java)
-+ [Find the odd int](/src/main/java/fundamentials/)
++ [Find the odd int](/src/main/java/fundamentials/FindOdd.java)
